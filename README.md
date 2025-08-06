@@ -1,4 +1,3 @@
-# Elevate-Data-Analytics-Task2
 # Elevate Data Analyst Internship: Task 2
 
 ## Project: Data Visualization and Storytelling with the Superstore Dataset
